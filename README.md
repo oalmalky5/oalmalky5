@@ -39,14 +39,14 @@ See [my website](https://www.omaralmalky.me/) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/oalmalky5/mauzoun" target="_blank">
+  <a href="https://github.com/oalmalky5/mauzoun">
    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="mauzoun.com" target="_blank">
+  <a href="www.mauzoun.com">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p align="center"><strong>Javascript, React.js, Sass, Nexts.js, & Express.js</strong> - A webiste built for Mauzoun Writing & Publishing</p>
+        <p align="center"><strong>Javascript, React.js, Sass, Nexts.js</strong> - A webiste built for Mauzoun Writing & Publishing</p>
     </td>
   </tr>
   

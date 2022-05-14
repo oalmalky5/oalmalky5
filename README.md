@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/hsdIV0Y.png" width="50%">
+<img src="https://i.imgur.com/hsdIV0Y.png" width="90%">
 
 <p align="center">
   <a href="https://www.omaralmalky.me/" target="_blank">

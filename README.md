@@ -43,7 +43,7 @@ See [my website](https://www.omaralmalky.me/) for more information!
    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="www.mauzoun.com">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
       </p>
         <p align="center"><strong>Javascript, React.js, Sass, Nexts.js</strong> - A webiste built for Mauzoun Writing & Publishing</p>

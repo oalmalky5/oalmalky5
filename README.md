@@ -31,7 +31,7 @@ See [my website](https://www.omaralmalky.me/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <a href="www.mauzoun.com" align="center">mauzoun.com</a>
+      <h3 align="center">mauzoun.com</h3>
         <br />
        <a href="www.mauzoun.com">
             <img src="https://i.imgur.com/k80g5de.png" width="100%" alt="mauzoun website"/>

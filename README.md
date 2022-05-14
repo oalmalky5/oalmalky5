@@ -31,7 +31,7 @@ See [my website](https://www.omaralmalky.me/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Mauzoun.com</h3>
+      <a href="www.mauzoun.com"><h3 align="center"mauzoun.com</h3></a>
         <br />
        <a href="www.mauzoun.com">
             <img src="https://i.imgur.com/k80g5de.png" width="100%" alt="mauzoun website"/>
@@ -39,7 +39,7 @@ See [my website](https://www.omaralmalky.me/) for more information!
         <br />
         <p align="center">
           
-  <a href="mauzoun.com">
+  <a href="https://github.com/oalmalky5/mauzoun">
    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="www.mauzoun.com">

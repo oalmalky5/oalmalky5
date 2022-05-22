@@ -49,7 +49,28 @@ See [my website](https://www.omaralmalky.me/) for more information!
         <p align="center"><strong>Javascript, React.js, Sass, Nexts.js</strong> - A webiste built for Mauzoun Writing & Publishing</p>
     </td>
   </tr>
-  
+    <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">www.omaralmalky.me</h3>
+        <br />
+       <a href="[www.omaralmalky.me](https://www.omaralmalky.me/)">
+            <img src="https://i.imgur.com/1STsoRO.png" width="100%" alt="portfolio"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/oalmalky5/mauzoun">
+   <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="www.omaralmalky.me">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+      </p>
+        <p align="center"><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.
+</p>
+    </td>
+  </tr>
+
  
 </table>
 
